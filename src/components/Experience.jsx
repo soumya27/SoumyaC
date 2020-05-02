@@ -14,7 +14,7 @@ function Experience() {
                     </div>
                     <div className="collapse show" data-parent="#accordion">
                         <div className="card-body">
-                            <span className='project'>Project 2: PASSWORD MANAGER EXTENSION AND MOBILE APPS  </span>
+                            <span className='project2'>Project 2: PASSWORD MANAGER EXTENSION AND MOBILE APPS  </span>
                             <ul className="projectitems listitems">
                                 <li>Implemented a successful POC in API design testing. Reduced manual API testing time with better design and automated testing with <strong>Jasmine (JavaScript)</strong></li>
                                 <li>Wrote automation scripts as a part of the automation re-architecture initiative aimed at improving the stability of scripts and reducing testing time, deployed to separate environments to ensure business continuity </li>

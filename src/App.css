@@ -24,7 +24,7 @@ html {
 }
 
 .navbar-collapse{
-  font-size: 20px;
+  font-size: 15px;
   display: inline;
 }
 
@@ -79,7 +79,6 @@ h1 ,h2{
 
 .exp{
   background-color: #4F97A3;
-  margin: 2%;
   padding: 5%;
 }
 
@@ -99,7 +98,7 @@ h1 ,h2{
 .projectcontainer{
     display: inline-flex;
     flex-wrap: wrap;
-    width: 60%;
+    width: 90%;
     margin: auto;
 }
 
@@ -128,7 +127,8 @@ h1 ,h2{
 .company{
   position: absolute;
   width:100%;
-  font-size: 30px;
+  font-size: 20px;
+  font-weight: bolder;
 }
 
 .cname{
@@ -144,12 +144,12 @@ h1 ,h2{
 
 
 .project2, .project1{
-  font-size: 25px;
-  font-weight: bolder;
+  font-size: 18px;
+  font-weight: bold;
 }
 
 .projectitems {
-  font-size: 19px;
+  font-size: 15px;
   /*font-weight: bolder;*/
 }
 
