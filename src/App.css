@@ -1,38 +1,146 @@
 .App {
   text-align: center;
+  /*font-family: 'Sacramento', cursive;*/
+  font-family: 'Handlee', cursive;
+  font-size: 25px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html {
+  scroll-behavior: smooth;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navbar {
+  font-family: 'Pacifico', cursive;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.aboutme{
+  margin-top: 5%;
+}
+
+.my_name{
+  display: inline;
+  margin-left: 10px;
+  font-size: 40px;
+}
+
+.navbar-collapse{
+  font-size: 25px;
+  display: inline;
+}
+
+.contactme{
+  height: 400px;
+  background-color: cadetblue;
+}
+
+.hello{
+  font-size: 50px;
+  padding-top: 5%;
+}
+
+.icons{
+  padding-top: 1%;
+}
+
+.icons a{
+  text-decoration: none;
+  color: inherit;
+}
+
+.icons a :hover{
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.avatar{
+  width: 250px;
+  height: 250px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h1 ,h2{
+  font-weight: bolder;
+}
+
+.listitems{
+  list-style-type:none;
+  padding-inline-start: 0;
+}
+
+.col-sm {
+  background-color: cadetblue;
+  color: white;
+  padding: 5%;
+  margin: 1%;
+  border: 1px solid;
+  border-radius: 5%;
+}
+
+.exp{
+  background-color: cadetblue;
+  margin: 2%;
+  padding: 5%;
+}
+
+.exp .card {
+  background-color: cadetblue;
+  color: white;
+  font-size: 30px;
+  border: none;
+}
+
+.projects {
+  margin: 2%;
+  padding: 2%;
+  width: 40rem;
+}
+
+.projectcontainer{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+.card-title{
+  text-align: left;
+  padding: 1%;
+}
+
+.card-body{
+  text-align: left;
+}
+
+.company{
+  position: absolute;
+  width:100%;
+  font-size: 30px;
+}
+
+.cname{
+  position: relative;
+  float:left;
+}
+
+.cdate{
+  position: relative;
+  float:right;
+  right:50px;
+}
+
+
+.project2, .project1{
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.projectitems {
+  font-size: 19px;
+  /*font-weight: bolder;*/
+}
+
+.experience {
+  color: white;
+  font-size: 40px;
+  padding: 1%;
+  font-weight: bolder;
+}
+
+.description{
+  font-size:20px;
 }
