@@ -18,8 +18,8 @@ function Projects() {
                                 video by using the <strong> AWS Rekognition </strong> service and descriptions by using the <strong> AWS Transcribe service.</strong>
                                 Using technologies like <strong>JavaScript and Python </strong>.
                             </p>
-                            <a href="https://github.com/soumya27/TechTogether" className="btn btn-primary">Github</a>
                         </div>
+                    <a href="https://github.com/soumya27/TechTogether" className="card-footer text-muted">Github</a>
                 </div>
                 <div className="projects card">
                     <img className="card-img-top" src={mean} alt="Card image cap" />
@@ -31,8 +31,8 @@ function Projects() {
                             frontend development and <strong>Nodejs</strong> for the backend. Created <strong>REST API’s</strong> to store and retrieve the
                             data from <strong>MongoDB</strong>.
                         </p>
-                        <a href="https://github.com/soumya27/Web_Recipe/tree/master/final-project-team-node" className="btn btn-primary">Github</a>
                     </div>
+                    <a href="https://github.com/soumya27/Web_Recipe/tree/master/final-project-team-node" className="card-footer text-muted">Github</a>
                 </div>
                 <div className="projects card">
                     <img className="card-img-top" src="https://raw.githubusercontent.com/soumya27/CellularAutomata/master/out/Image3.png" alt="Card image cap" />
@@ -43,8 +43,8 @@ function Projects() {
                             automata and a graphical display panel to display the automation. Using <strong>java threads </strong>, we achieve parallel processing for the
                             simulation and UI components. The implementation also includes the use of abstract class, interfaces and singleton <strong>design pattern</strong>.
                         </p>
-                        <a href="https://github.com/soumya27/Web_Recipe/tree/master/final-project-team-node" className="btn btn-primary">Github</a>
                     </div>
+                    <a href="https://github.com/soumya27/Web_Recipe/tree/master/final-project-team-node" className="card-footer text-muted">Github</a>
                 </div>
                 <div className="projects card">
                     <img className="card-img-top" src={vineyard} alt="Card image cap" />
@@ -53,8 +53,8 @@ function Projects() {
                         <p className=" description card-text">
                             Unity
                         </p>
-                        <a href="https://github.com/soumya27/TechTogether" className="btn btn-primary">Github</a>
                     </div>
+                    <a href="https://github.com/soumya27/TechTogether" className="card-footer text-muted">Github</a>
                 </div>
                 <div className="projects card">
                     <img className="card-img-top" src={mean} alt="Card image cap" />
@@ -63,8 +63,8 @@ function Projects() {
                         <p className=" description card-text">
                             Java
                         </p>
-                        <a href="https://github.com/soumya27/Web_Recipe/tree/master/final-project-team-node" className="btn btn-primary">Github</a>
                     </div>
+                    <a href="https://github.com/soumya27/Web_Recipe/tree/master/final-project-team-node" className="card-footer text-muted">Github</a>
                 </div>
                 <div className="projects card">
                     <img className="card-img-top" src="https://raw.githubusercontent.com/soumya27/CellularAutomata/master/out/Image3.png" alt="Card image cap" />
@@ -73,8 +73,8 @@ function Projects() {
                         <p className="description card-text">
                             ReactJS
                         </p>
-                        <a href="https://github.com/soumya27/Web_Recipe/tree/master/final-project-team-node" className="btn btn-primary">Github</a>
                     </div>
+                    <a href="https://github.com/soumya27/Web_Recipe/tree/master/final-project-team-node" className="card-footer text-muted">Github</a>
                 </div>
             </div>
 
