@@ -30,7 +30,7 @@ html {
 
 .contactme{
   height: 400px;
-  background-color: cadetblue;
+  background-color: #4F97A3;
 }
 
 .hello{
@@ -65,7 +65,7 @@ h1 ,h2{
 }
 
 .col-sm {
-  background-color: cadetblue;
+  background-color: #4F97A3;
   color: white;
   padding: 5%;
   margin: 1%;
@@ -74,13 +74,13 @@ h1 ,h2{
 }
 
 .exp{
-  background-color: cadetblue;
+  background-color: #4F97A3;
   margin: 2%;
   padding: 5%;
 }
 
 .exp .card {
-  background-color: cadetblue;
+  background-color: #4F97A3;
   color: white;
   font-size: 30px;
   border: none;
@@ -89,17 +89,32 @@ h1 ,h2{
 .projects {
   margin: 2%;
   padding: 2%;
-  width: 40rem;
+  width: 35rem;
 }
 
 .projectcontainer{
     display: inline-flex;
     flex-wrap: wrap;
+    width: 60%;
+    margin: auto;
 }
 
 .card-title{
   text-align: left;
   padding: 1%;
+}
+
+.skillrow{
+  display:inline-flex;
+  width: 60%;
+  /*margin-left: 10%;*/
+  margin: auto;
+}
+
+.expcard {
+  width: 80%;
+  /*margin-left: 10%;*/
+  margin: auto;
 }
 
 .card-body{

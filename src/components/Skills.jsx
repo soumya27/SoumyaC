@@ -4,7 +4,7 @@ function Skills(){
     return (
         <div className="container-fluid p-lg-5">
             <h2>Languages I Speak </h2>
-            <div className="row">
+            <div className="skillrow ">
                 <div className="col-sm">
                     <h2>Frontend:</h2>
                     <ul className="listitems">

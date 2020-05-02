@@ -5,7 +5,7 @@ function Experience() {
         <div className="exp container-fluid" id="experience">
             <h2 className="experience" >Experiences</h2>
             <div className="accordion">
-                <div className="card">
+                <div className="expcard card">
                     <div className="card-title">
                         <h3 className="company mb-0">
                             <span className="cname">SYMANTEC, SOFTWARE DEVELOPER IN TESTING (Chennai, IN) </span>
@@ -34,7 +34,7 @@ function Experience() {
                         </div>
                     </div>
                 </div>
-                <div className="card">
+                <div className="expcard card">
                     <div className="card-title">
                         <h3 className="company mb-0">
                             <span className="cname">INFRASOFT TECHNOLOGIES, ASS. SOFTWARE DEVELOPER (Chennai, IN)</span>

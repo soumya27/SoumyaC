@@ -6,7 +6,7 @@ import mean from '../mean.png';
 function Projects() {
     return(
         <React.Fragment>
-            <div className=" projectcontainer container-fluid " id="project">
+            <div className=" projectcontainer container-fluid" id="project">
                 <div className="projects card">
                     <img className="card-img-top" src={vineyard} alt="Card image cap" />
                         <div className="card-body">
