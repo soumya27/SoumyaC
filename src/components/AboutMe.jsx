@@ -9,11 +9,12 @@ function Aboutme() {
                 <section className="p-5">
                     <h1>Hi, I'm Soumya.Nice to meet you.</h1>
                     <p>
-                        Since beginning my journey as software developer around 6 years back,
-                        I've worked as Software Developer,then Software Development Engineering in Test,
-                        and collaborated with talented people to create digital products for both business and consumer
-                        use. I'm quietly confident, naturally curious, and perpetually working on improving
-                        my chops one design problem at a time.
+                        Current graduate student of Northeastern University
+                    </p>
+                    <p>
+                        It has been about 10 years since I started my journey into the world of computers and programming.
+                        Now years later, with 360-degree exposure to software development and problem-solving,
+                        I strive to persistently learn and solve problems innovatively.
                     </p>
                 </section>
                 <img className="avatar rounded-circle " src={avatar} alt="my avatar" />
