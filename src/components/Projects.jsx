@@ -46,36 +46,36 @@ function Projects() {
                     </div>
                     <a href="https://github.com/soumya27/Web_Recipe/tree/master/final-project-team-node" className="card-footer text-muted">Github</a>
                 </div>
-                <div className="projects card">
-                    <img className="card-img-top" src={vineyard} alt="Card image cap" />
-                    <div className="card-body">
-                        <h5 className="card-title">Games in UNITY </h5>
-                        <p className=" description card-text">
-                            Unity
-                        </p>
-                    </div>
-                    <a href="https://github.com/soumya27/TechTogether" className="card-footer text-muted">Github</a>
-                </div>
-                <div className="projects card">
-                    <img className="card-img-top" src={mean} alt="Card image cap" />
-                    <div className="card-body">
-                        <h5 className="card-title">Ranking System</h5>
-                        <p className=" description card-text">
-                            Java
-                        </p>
-                    </div>
-                    <a href="https://github.com/soumya27/RankingSystem" className="card-footer text-muted">Github</a>
-                </div>
-                <div className="projects card">
-                    <img className="card-img-top" src="https://raw.githubusercontent.com/soumya27/CellularAutomata/master/out/Image3.png" alt="Card image cap" />
-                    <div className="card-body">
-                        <h5 className="card-title">Cricket Score Keeper </h5>
-                        <p className="description card-text">
-                            ReactJS
-                        </p>
-                    </div>
-                    <a href="https://github.com/soumya27/Web_Recipe/tree/master/final-project-team-node" className="card-footer text-muted">Github</a>
-                </div>
+            {/*    <div className="projects card">*/}
+            {/*        <img className="card-img-top" src={vineyard} alt="Card image cap" />*/}
+            {/*        <div className="card-body">*/}
+            {/*            <h5 className="card-title">Games in UNITY </h5>*/}
+            {/*            <p className=" description card-text">*/}
+            {/*                Unity*/}
+            {/*            </p>*/}
+            {/*        </div>*/}
+            {/*        <a href="https://github.com/soumya27/TechTogether" className="card-footer text-muted">Github</a>*/}
+            {/*    </div>*/}
+            {/*    <div className="projects card">*/}
+            {/*        <img className="card-img-top" src={mean} alt="Card image cap" />*/}
+            {/*        <div className="card-body">*/}
+            {/*            <h5 className="card-title">Ranking System</h5>*/}
+            {/*            <p className=" description card-text">*/}
+            {/*                Java*/}
+            {/*            </p>*/}
+            {/*        </div>*/}
+            {/*        <a href="https://github.com/soumya27/RankingSystem" className="card-footer text-muted">Github</a>*/}
+            {/*    </div>*/}
+            {/*    <div className="projects card">*/}
+            {/*        <img className="card-img-top" src="https://raw.githubusercontent.com/soumya27/CellularAutomata/master/out/Image3.png" alt="Card image cap" />*/}
+            {/*        <div className="card-body">*/}
+            {/*            <h5 className="card-title">Cricket Score Keeper </h5>*/}
+            {/*            <p className="description card-text">*/}
+            {/*                ReactJS*/}
+            {/*            </p>*/}
+            {/*        </div>*/}
+            {/*        <a href="https://github.com/soumya27/Web_Recipe/tree/master/final-project-team-node" className="card-footer text-muted">Github</a>*/}
+            {/*    </div>*/}
             </div>
 
 
