@@ -96,9 +96,8 @@ h1 ,h2{
 }
 
 .projectcontainer{
-    display: inline-flex;
+    display: flex;
     flex-wrap: wrap;
-    width: 95%;
     margin: auto;
 }
 
@@ -169,7 +168,11 @@ h1 ,h2{
   height: 250px;
 }
 
-
 .nav-item {
   width: 30%;
+}
+
+.projectheader{
+  text-align: center;
+  padding: 3%;
 }

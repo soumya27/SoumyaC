@@ -1,5 +1,5 @@
 import React from "react";
-import avatar from '../myAvatar.svg';
+import avatar from '../images/myAvatar.svg';
 import Skills from "./Skills";
 
 function Aboutme() {
