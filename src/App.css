@@ -98,7 +98,7 @@ h1 ,h2{
 .projectcontainer{
     display: inline-flex;
     flex-wrap: wrap;
-    width: 90%;
+    width: 95%;
     margin: auto;
 }
 

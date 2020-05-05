@@ -32,7 +32,8 @@ function Projects() {
                             data from <strong>MongoDB</strong>.
                         </p>
                     </div>
-                    <a href="https://github.com/soumya27/Web_Recipe/tree/master/final-project-team-node" className="card-footer text-muted">Github</a>
+                    <a href="https://github.com/neu-mis-info6150-fall-2019/final-project-team-node" className="card-footer text-muted">Github</a>
+                    {/*<a href="https://github.com/soumya27/Web_Recipe/tree/master/final-project-team-node" className="card-footer text-muted">Github</a>*/}
                 </div>
                 <div className="projects card">
                     <img className="card-img-top" src="https://raw.githubusercontent.com/soumya27/CellularAutomata/master/out/Image3.png" alt="Card image cap" />

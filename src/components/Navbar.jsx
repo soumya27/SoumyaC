@@ -23,7 +23,7 @@ function Navbar(){
                         <a className="nav-link" href="#project">Projects</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#contactme">Contact Me</a>
+                        <a className="nav-link" href="#contactme">Contact</a>
                     </li>
                 </ul>
             </div>
